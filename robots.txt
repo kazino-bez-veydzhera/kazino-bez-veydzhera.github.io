@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-veydzhera.github.io
+Sitemap: https://kazino-bez-veydzhera.github.io/sitemap.xml
